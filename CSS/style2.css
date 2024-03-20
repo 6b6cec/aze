@@ -1,0 +1,33 @@
+body{
+    background-color: darkslategrey;
+    color: beige;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    padding: 15px;
+}
+
+p{
+    width: 50%;
+    display: inline-block;
+    text-align: center;
+}
+.item_name{
+    text-align: left;
+}
+
+.item_price{
+    text-align: right;
+}
+
+.item_image{
+    text-align: center;
+}
+
+h2, h1, h3{
+    width: 100%;
+    text-align: center;
+    display: block;
+}
